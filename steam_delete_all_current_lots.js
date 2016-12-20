@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam - Delete all current lots
 // @namespace    Shmurdik
-// @version      0.1
+// @version      1.1
 // @description  Steam - Delete all current lots
 // @author       Shmurdik
 // @match        http://steamcommunity.com/market/listings/*/*
